@@ -13,6 +13,7 @@
 * Author: Luis Gimenez                             *
 * Author URL: http://zreedee.com                   *
 * Author E-mail: nitwit@zreedee.com                *
+* Version: 1.0                                     *
 *                                                  *
 ***************************************************/
 
